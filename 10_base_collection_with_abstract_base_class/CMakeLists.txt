@@ -1,0 +1,1 @@
+add_executable(10_base_collection_with_abstract_base_class 10_base_collection_with_abstract_base_class.cpp)

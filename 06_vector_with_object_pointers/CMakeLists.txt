@@ -1,0 +1,1 @@
+add_executable(06_vector_with_object_pointers 06_vector_with_object_pointers.cpp)

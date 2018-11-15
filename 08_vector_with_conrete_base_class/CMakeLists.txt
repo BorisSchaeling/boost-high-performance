@@ -1,0 +1,1 @@
+add_executable(08_vector_with_conrete_base_class 08_vector_with_conrete_base_class.cpp)

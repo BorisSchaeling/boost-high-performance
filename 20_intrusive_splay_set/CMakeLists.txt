@@ -1,0 +1,1 @@
+add_executable(20_intrusive_splay_set 20_intrusive_splay_set.cpp)

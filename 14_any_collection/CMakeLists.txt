@@ -1,0 +1,1 @@
+add_executable(14_any_collection 14_any_collection.cpp)

@@ -1,0 +1,1 @@
+add_executable(27_lockfree_spsc_queue_with_threads 27_lockfree_spsc_queue_with_threads.cpp)

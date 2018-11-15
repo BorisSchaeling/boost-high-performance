@@ -1,0 +1,1 @@
+add_executable(07_vector_with_objects 07_vector_with_objects.cpp)

@@ -1,0 +1,1 @@
+add_executable(22_intrusive_list_with_abstract_base_class 22_intrusive_list_with_abstract_base_class.cpp)

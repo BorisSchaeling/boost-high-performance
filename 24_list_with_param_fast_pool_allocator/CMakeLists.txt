@@ -1,0 +1,1 @@
+add_executable(24_list_with_param_fast_pool_allocator 24_list_with_param_fast_pool_allocator.cpp)

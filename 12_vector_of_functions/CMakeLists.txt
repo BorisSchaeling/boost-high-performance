@@ -1,0 +1,1 @@
+add_executable(12_vector_of_functions 12_vector_of_functions.cpp)

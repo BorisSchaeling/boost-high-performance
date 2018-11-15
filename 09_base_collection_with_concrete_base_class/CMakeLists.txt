@@ -1,0 +1,1 @@
+add_executable(09_base_collection_with_concrete_base_class 09_base_collection_with_concrete_base_class.cpp)

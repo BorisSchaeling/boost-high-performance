@@ -1,0 +1,1 @@
+add_executable(16_list_with_objects 16_list_with_objects.cpp)
